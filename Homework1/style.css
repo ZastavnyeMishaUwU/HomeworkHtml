@@ -1,0 +1,25 @@
+li{
+    background: blue;
+    color: floralwhite;
+}
+ul{
+    background: lightsalmon;
+}
+a{
+    color: brown;
+}
+h1{
+    background: lawngreen;
+}
+img{
+    border: 17px dashed rgb(45, 156, 17);
+    width: 200px;  
+    height: 400px;
+}
+p{
+    background: yellowgreen;
+    color: aqua;
+}
+bady{
+    background: yellow;
+}
